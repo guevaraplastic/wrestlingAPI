@@ -1,0 +1,72 @@
+[{
+    "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+    "name": "Adam Cole",
+    "nick-name": "The Panama City Playboy",
+    "real-name": "Austin Jenkins",
+    "stable": "",
+    "birth-place": "USA",
+    "poster": "https://static.wixstatic.com/media/ac2041_f42225d331614f0ab8b722b199ce8c24~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ac2041_f42225d331614f0ab8b722b199ce8c24~mv2.jpg",
+    "promotios": ["CZW", "ROH", "WWE", "AEW"],
+    "finisher": ["The Boom", "Panama Sunrise"],
+    "championships": ["CZW Junior Heavy Weight Championship", "ROH World Championship", "ROH TV Championship", "PWG World Championship", "NXT Championship", "NXT Tag Team Championship", "NXT North American Championship"]
+  },
+  {
+    "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
+    "name": "Bryan Danielson",
+    "nick-name": "The American Dragon",
+    "real-name": "Bryan Lloyd Danielson",
+    "stable": "BLACKPOOL COMBAT CLUB",
+    "birth-place": "USA",
+    "poster": "https://static.wixstatic.com/media/ac2041_4be0f657455e4d0da225c99df298944a~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ac2041_4be0f657455e4d0da225c99df298944a~mv2.jpg",
+    "promotios": ["ROH", "FIP", "NWA", "PWG", "WWE", "AEW"],
+    "finisher": ["Running high knee", "Lebell Lock"],
+    "championships": ["ROH World Championship", "PWG World Championship", "PWG World Heavy Weight Championship", "wXw World Heavy Weight Championship", "WWE World Heavy Weight Championship"]
+  },
+  {
+    "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
+    "name": "CM Punk",
+    "nick-name": "The Best in the World",
+    "real-name": "Phillip Jack Brooks",
+    "stable": "",
+    "birth-place": "USA",
+    "poster": "https://static.wixstatic.com/media/815952_35a5a666abfa4cdaad21258e68e70aec~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/815952_35a5a666abfa4cdaad21258e68e70aec~mv2.jpg",
+    "promotios": ["ROH", "WWE", "AEW"],
+    "finisher": ["G.T.S.", "Anaconda Vise"],
+    "championships": ["ROH World Championship", "ECW World Championship", "WWE World Heavy Weight Championship", "AEW World Championship"]
+  },
+  {
+    "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
+    "name": "Kenny Omega",
+    "nick-name": "The Cleaner",
+    "real-name": "Tyson Smith",
+    "stable": "The Elite",
+    "birth-place": "Canada",
+    "poster": "https://static.wixstatic.com/media/ac2041_2e418e5aa56f4a5090a9e34bb8ac93bd~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ac2041_2e418e5aa56f4a5090a9e34bb8ac93bd~mv2.jpg",
+    "promotios": ["ROH", "DDT", "AAA", "NJPW", "AEW"],
+    "finisher": ["Ira de Croyt", "One Winged-Angel"],
+    "championships": ["PWG World Heavy Weight Championship", "G1 Climax 2016", "B.O.L.A. tournament 2009", "NJPW JR Heavy Weight Championship", "NJPW Never Open Weight Trios Championship", "NJPW Intercontinental Championship", "NJPW Heavy Weight Championship", "Mega Campeón AAA", "TNA World Championship", "Impact World Championship", "AEW Tag Team Championship", "AEW World Championship"]
+  },
+  {
+    "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
+    "name": "Penta Zero M",
+    "nick-name": "",
+    "real-name": "",
+    "stable": "Lucha Brothers",
+    "birth-place": "México",
+    "poster": "https://static.wixstatic.com/media/815952_9c3c6a8fca484a9bb166f2bad12fff4a~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/815952_9c3c6a8fca484a9bb166f2bad12fff4a~mv2.jpg",
+    "promotios": ["AAA", "CMLL", "PWG", "Impact", "MLW", "Lucha Underground", "AEW"],
+    "finisher": ["Sunsetflip piledriver"],
+    "championships": ["Campeón Mundial de Parejas Mixtas de AAA", "Campeón Mundial de Parejas de AAA", "Impact World Championship", "AEW Tag Team Championship", "AEW Trios Championship", "PWG Tag Team Championship", "Impact Tag Team Championship", "MLW Tag Team Championship", "Campeón Latinoamericano de AAA", "Rey de Reyes AAA"]
+  },
+  {
+    "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
+    "name": "Fénix",
+    "nick-name": "Rey Fénix",
+    "real-name": "",
+    "stable": "Lucha Brothers",
+    "birth-place": "México",
+    "poster": "https://static.wixstatic.com/media/815952_c8a8f23457e842de983d3f0167122ff9~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/815952_c8a8f23457e842de983d3f0167122ff9~mv2.jpg",
+    "promotios": ["AAA", "CMLL", "PWG", "NOAH", "Impact", "MLW", "Lucha Underground", "AEW"],
+    "finisher": ["La Garra del Fénix", "Fénix Driver"],
+    "championships": ["Campeón Mundial de Parejas Mixtas de AAA", "Campeón Mundial de Peso Crucero de AAA", "Campeón Mundial de Parejas de AAA", "Mega Campeón AAA", "AEW Tag Team Championship", "AEW Trios Championship", "PWG Tag Team Championship", "Impact Tag Team Championship", "MLW Tag Team Championship", "Campeón Latinoamericano de AAA", "Rey de Reyes AAA"]
+  }]
